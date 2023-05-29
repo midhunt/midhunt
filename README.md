@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**midhunt/midhunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Midhun. I pursuing Master of Science in Business Analytics at University of Texas at Dallas. I love all things about Data Science, Machine Learning and Engineering.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on various open source projects
+- 🌱 I’m currently learning & practicing Databases, Data Structures and Algorithms on Leetcode
+- 📖 I'm currently reading ["Design Pattern for Machine Learning" by Valliappa Lakshmanan, Sara Robinson, et al.](https://www.amazon.com/Machine-Learning-Design-Patterns-Preparation/dp/1098115783)
+- 👯 I’m looking to collaborate on Data Science and Machine Learning projects
+- 🤔 I’m looking for help with Data Science Opportunities in the U.S
+- 💬 Ask me about Data Science, Machine Learning, Deep Learning, Data Engineering, Metadata Management, Data Architecture, MLOps, etc.
+<!-- - 📫 How to reach me: through mail -->
+<!-- - 😄 Pronouns: ... -->
+- ⚡ Fun fact: I backpacked an unplanned trip using public transport for 50 days to 12 places in India in 2019. 
