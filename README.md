@@ -9,6 +9,4 @@ I'm Midhun. I pursuing Master of Science in Business Analytics at University of 
 - 👯 I’m looking to collaborate on Data Science and Machine Learning projects
 - 🤔 I’m looking for help with Data Science Opportunities in the U.S
 - 💬 Ask me about Data Science, Machine Learning, Deep Learning, Data Engineering, Metadata Management, Data Architecture, MLOps, etc.
-<!-- - 📫 How to reach me: through mail -->
-<!-- - 😄 Pronouns: ... -->
 - ⚡ Fun fact: I backpacked an unplanned trip using public transport for 50 days to 12 places in India in 2019. 
